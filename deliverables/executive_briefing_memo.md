@@ -57,6 +57,8 @@ Total Capital Destroyed: -$65,387
 Composite Segment Margin: -46.7%
 ```
 
+![Category Profit Breakdown by Discount Band](../charts/chart2_category_discount_profit.png)
+
 This tiny segment accounts for nearly half (48.3%) of all promotional profit destruction across the entire enterprise. Curtailing losses in this exact intersection stabilizes the P&L without disturbing the remaining 92.4% of profitable, healthy customer relationships.
 
 ## Strategic Recommendations & Action Plan
