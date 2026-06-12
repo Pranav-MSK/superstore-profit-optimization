@@ -2,7 +2,7 @@
 
 An end-to-end data analytics case study designed to move past surface-level aggregate financial success to isolate, quantify, and mitigate hidden corporate profit leakage.
 
-[![Superstore Executive Dashboard](../deliverables/dashboard-screenshot.png)](https://public.tableau.com/views/SuperstoreExecutiveProfitOptimizationDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Superstore Executive Dashboard](https://public.tableau.com/static/images/Su/SuperstoreExecutiveProfitOptimizationDashboard/Dashboard1/1.png)](https://public.tableau.com/views/SuperstoreExecutiveProfitOptimizationDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 *💡 **Click the dashboard image above** to view and interact with the live application on Tableau Public, where you can cross-filter metrics in real-time.*
 
@@ -29,3 +29,13 @@ The dataset used in this analysis is a historical transaction log representing r
 * **Primary Source:** Publicly hosted via the [Salesforce Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/feed/0D5KX00000kQPXv0AO).
 * **Curation Archive:** Sourced from the [Superstore Dataset Archive on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/).
 * **Acknowledgements:** All credit belongs to the original creators and authors at Tableau/Salesforce. This project is structured strictly for educational and portfolio demonstration purposes under fair use.
+
+---
+
+# 👨‍💻 Connect With Me
+If you have any questions about the methodology used in this analysis, want to discuss the findings, or are looking to collaborate, feel free to reach out!
+
+* **Name:** Pranav M S Krishnan
+* [Connect with me on LinkedIn](https://linkedin.com/in/pranav-m-s-krishnan-25b5982a9)
+* [Visit my Tableau Public Profile](https://public.tableau.com/app/profile/your-username)
+* [Visit my Github Profile](https://github.com/Pranav-MSK)
