@@ -2,6 +2,10 @@
 
 An end-to-end data analytics case study designed to move past surface-level aggregate financial success to isolate, quantify, and mitigate hidden corporate profit leakage.
 
+[![Superstore Executive Dashboard](../deliverables/dashboard-screenshot.png)](https://public.tableau.com/views/SuperstoreExecutiveProfitOptimizationDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+*💡 **Click the dashboard image above** to view and interact with the live application on Tableau Public, where you can cross-filter metrics in real-time.*
+
 ## 🔗 Project Deliverables
 * **Interactive Dashboard:** [Live Tableau Public Dashboard](https://public.tableau.com/views/SuperstoreExecutiveProfitOptimizationDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Formal Business Report:** Available in Markdown format [here](./deliverables/executive_briefing_memo.md) or via [PDF](./deliverables/Report.pdf).
