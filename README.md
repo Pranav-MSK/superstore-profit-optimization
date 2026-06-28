@@ -36,6 +36,6 @@ The dataset used in this analysis is a historical transaction log representing r
 If you have any questions about the methodology used in this analysis, want to discuss the findings, or are looking to collaborate, feel free to reach out!
 
 * **Name:** Pranav M S Krishnan
-* [Connect with me on LinkedIn](https://linkedin.com/in/pranav-m-s-krishnan-25b5982a9)
+* [Connect with me on LinkedIn](https://linkedin.com/in/pranav-msk)
 * [Visit my Tableau Public Profile](https://public.tableau.com/app/profile/your-username)
 * [Visit my Github Profile](https://github.com/Pranav-MSK)
